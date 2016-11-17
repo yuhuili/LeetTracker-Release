@@ -1,0 +1,20 @@
+PODS:
+  - Alamofire (4.0.1)
+  - Kanna (2.0.0)
+  - SQLite.swift (0.11.0):
+    - SQLite.swift/standard (= 0.11.0)
+  - SQLite.swift/standard (0.11.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Kanna (~> 2.0.0)
+  - SQLite.swift (~> 0.11.0)
+
+SPEC CHECKSUMS:
+  Alamofire: 7682d43245de14874acd142ec137b144aa1dd335
+  Kanna: 9a6637f72f5c77fe9c045b1efb2a5bb074754af8
+  SQLite.swift: 9a26273607d3077a2e5a8d33486e9989f8404c7d
+
+PODFILE CHECKSUM: 90f4e411ee2ae8f25b5879492487023d2f42dada
+
+COCOAPODS: 1.1.1
