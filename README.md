@@ -1,4 +1,4 @@
-# LeetTracker
+# LeetTracker (Alpha)
 
 <a href="https://github.com/yuhuili">![Yuhui Li](https://githubtools.yuhuili.com/kagami/yuhuili/Yuhui%20Li/)</a>
 
@@ -10,6 +10,14 @@ LeetTracker automatically fetches all of your LeetCode submissions to your GitHu
 - Submissions are organized into individual problems
 - README for each problem that includes problem description and submission details
 - LeetTracker remembers which submissions have been cached and will not fetch them again
+
+## Known Issues
+- Start button will not be re-enabled after the process is completed.
+
+## Note
+- Git Repo Dir: the absolute path to a valid local git folder
+- Database Dir: any blank file
+- LC Cookie: Cookie associated with an active LeetCode session
 
 ## To-do
 - Add direct login
