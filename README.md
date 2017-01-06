@@ -4,7 +4,7 @@
 
 <img src="GitHub/ss1.png" width="400">
 
-LeetTracker automatically fetches all of your LeetCode submissions to your GitHub repository. It is written purily in Swift and runs on macOS. Check out the [demo repository](https://github.com/yuhuili/LeetTrackerDemo), or try this [precompiled version](https://github.com/yuhuili/LeetTracker-Release/raw/master/GitHub/LeetTracker.zip).
+LeetTracker automatically fetches all of your LeetCode submissions to your GitHub repository. It is written purely in Swift and runs on macOS. Check out the [demo repository](https://github.com/yuhuili/LeetTrackerDemo), or try this [precompiled version](https://github.com/yuhuili/LeetTracker-Release/raw/master/GitHub/LeetTracker.zip).
 
 ## Features
 - Submissions are organized into individual problems
